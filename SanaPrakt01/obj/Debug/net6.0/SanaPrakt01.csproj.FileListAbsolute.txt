@@ -1,0 +1,15 @@
+C:\VS\SanaPrakt01\SanaPrakt01\bin\Debug\net6.0\SanaPrakt01.exe
+C:\VS\SanaPrakt01\SanaPrakt01\bin\Debug\net6.0\SanaPrakt01.deps.json
+C:\VS\SanaPrakt01\SanaPrakt01\bin\Debug\net6.0\SanaPrakt01.runtimeconfig.json
+C:\VS\SanaPrakt01\SanaPrakt01\bin\Debug\net6.0\SanaPrakt01.dll
+C:\VS\SanaPrakt01\SanaPrakt01\bin\Debug\net6.0\SanaPrakt01.pdb
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.csproj.AssemblyReference.cache
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.AssemblyInfoInputs.cache
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.AssemblyInfo.cs
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.csproj.CoreCompileInputs.cache
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.dll
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\refint\SanaPrakt01.dll
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.pdb
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\SanaPrakt01.genruntimeconfig.cache
+C:\VS\SanaPrakt01\SanaPrakt01\obj\Debug\net6.0\ref\SanaPrakt01.dll
